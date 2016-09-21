@@ -1,1 +1,11 @@
 C:\Users\Bruce\Desktop\test\test\bin\Debug\test.exe.config
+C:\Users\Bruce\Documents\GitHub\git-demo\test\bin\Debug\test.exe.config
+C:\Users\Bruce\Documents\GitHub\git-demo\test\bin\Debug\test.exe
+C:\Users\Bruce\Documents\GitHub\git-demo\test\bin\Debug\test.pdb
+C:\Users\Bruce\Documents\GitHub\git-demo\test\bin\Debug\test.xml
+C:\Users\Bruce\Documents\GitHub\git-demo\test\obj\Debug\test.Form1.resources
+C:\Users\Bruce\Documents\GitHub\git-demo\test\obj\Debug\test.Resources.resources
+C:\Users\Bruce\Documents\GitHub\git-demo\test\obj\Debug\test.vbproj.GenerateResource.Cache
+C:\Users\Bruce\Documents\GitHub\git-demo\test\obj\Debug\test.exe
+C:\Users\Bruce\Documents\GitHub\git-demo\test\obj\Debug\test.xml
+C:\Users\Bruce\Documents\GitHub\git-demo\test\obj\Debug\test.pdb
